@@ -12,6 +12,6 @@
 
     </head>
     <body class="antialiased">
-<h1>home</h1>
+<h1>service</h1>
     </body>
 </html>
